@@ -17,7 +17,7 @@ Build 및 실행 방법은 Bootstrap 과 동일합니다.
 4. `gem install bundler jekyll` Jekyll 설치 [Jekyll 바로가기](https://jekyllrb-ko.github.io)
 5.  npm 사용을 위한 node.js 설치(8.x 버젼) [Node 바로가기](https://nodejs.org/ko/download/)
 6. `npm install` js 패키지 설치
-7. `bundle install` 루비 젬 설치
+7. `bundle install` ruby 패키지 설치
 8. `bundle exec jekyll serve` 로컬서버 실행 
 
 ##### 프로젝트 빌드방법
