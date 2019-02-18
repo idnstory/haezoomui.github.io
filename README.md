@@ -6,8 +6,8 @@
 Build 및 실행 방법은 Bootstrap 과 동일합니다.
 
 ##### 설치 되어있어야 하는 프로그램들
-- npm
-- grunt
+- [npm](https://www.npmjs.com/package/install)
+- [grunt](https://gruntjs.com/installing-grunt)
 - phantomjs (mac os 에선 정상동작안함)
 
 ##### 개발환경 설정 (OS X 기준)
