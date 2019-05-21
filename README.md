@@ -1,4 +1,4 @@
-# [idnstory.github.io/haezoom-bootstrap] (외부에서 접속할 수 있도록 임시 URL 설정)
+[idnstory.github.io/haezoom-bootstrap] (외부에서 접속할 수 있도록 임시 URL 설정)
  해줌 Github io
  해줌 스타일 가이드가 적용된 `Bootstrap 3.x` 의 커스텀 버전 입니다.
 
